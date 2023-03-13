@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include techner *.css
+recursive-include techner *.csv
+recursive-include techner *.html
+recursive-include techner *.ico
+recursive-include techner *.js
+recursive-include techner *.json
+recursive-include techner *.md
+recursive-include techner *.png
+recursive-include techner *.py
+recursive-include techner *.svg
+recursive-include techner *.txt
+recursive-exclude techner *.pyc
