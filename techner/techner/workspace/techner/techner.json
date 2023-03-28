@@ -1,0 +1,31 @@
+{
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Your Shortcuts</b></span>\",\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Monthly Time Sheet And Invoice\",\"col\":4}}]",
+ "creation": "2023-03-13 00:43:38.610091",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "projects",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Techner",
+ "links": [],
+ "modified": "2023-03-13 00:46:42.129376",
+ "modified_by": "Administrator",
+ "module": "Techner",
+ "name": "Techner",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 2.0,
+ "shortcuts": [
+  {
+   "doc_view": "List",
+   "label": "Monthly Time Sheet And Invoice",
+   "link_to": "Monthly Time Sheet And Invoice",
+   "type": "DocType"
+  }
+ ],
+ "title": "Techner"
+}
